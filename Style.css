@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 370px;
+    height: 500px;
+    border: 1px solid red;
+}
+.main{
+    width: 350px;
+    height: 450px;
+    border: 1px solid green;
+    margin: auto;
+}
+
+
+@media(min-width:400px){
+    .container{
+        width: 1300px;
+        height: 650px;
+}
+.main{
+    width: 1000px;
+    height: 600px;
+}
+}
