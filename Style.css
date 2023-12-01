@@ -6,43 +6,44 @@
 .container{
     width: 370px;
     height: 500px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    margin: auto;
 }
 .main{
     width: 350px;
     height: 450px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin: auto;
     display: flex;
 }
 .div1{
     width: 170px;
     height: 430px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     background-color: aqua;
 }
 .div2{
     width: 170px;
     height: 430px;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     background-color: aqua;
 }
 .grade{
     width: 170px;
     height: 50px;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     background-color: aquamarine;
 }
 .point{
     font-size: 17px;
-    text-align: center;
-    justify-content: center;
+    /* text-align: center; */
+    /* justify-content: center; */
     margin-top: 13px;
 }
 .comm{
     width: 170px;
     height: 50px;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     background-color: aquamarine;
 }
 .comments{
@@ -180,7 +181,7 @@
 .grade{
     width: 500px;
     height: 80px;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
 }
 .point{
     font-size: 25px;
@@ -191,7 +192,7 @@
 .comm{
     width: 500px;
     height: 80px;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
 }
 .comments{
     font-size: 25px;
@@ -200,31 +201,31 @@
     margin-top: 24px;
 }
 .name{
-    width: 350px;
+    width: 365px;
     height: 50px;
     border-radius: 5px;
     font-size: 18px;
 }
 .html{
-    width: 350px;
+    width: 365px;
     height: 50px;
     border-radius: 5px;
     font-size: 18px
 }
 .css{
-    width: 350px;
+    width: 365px;
     height: 50px;
     border-radius: 5px;
     font-size: 18px
 }
 .java{
-    width: 350px;
+    width: 365px;
     height: 50px;
     border-radius: 5px;
     font-size: 18px
 }
 .react{
-    width: 350px;
+    width: 365px;
     height: 50px;
     border-radius: 5px;
     font-size: 18px
@@ -269,7 +270,10 @@
     margin-left: 5px;
 }
 .average{
-    margin-top: -20px;
-    margin-left: -60px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.total{
+    margin-left: 5px;
 }
 }
