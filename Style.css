@@ -47,6 +47,69 @@
     justify-content: center;
     margin-top: 13px;
 }
+.name{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.html{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.css{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.java{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.react{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.avg{
+    width: 90px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.pavg{
+    width: 160px;
+    height: 20px;
+    margin-top: 10px;
+}
+.gd{
+    width: 90px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.pgd{
+    width: 160px;
+    height: 20px;
+    margin-top: 10px;
+}
+.tot{
+    width: 90px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.ptot{
+    width: 150px;
+    height: 20px;
+    margin-top: 10px;
+}
 
 
 @media(min-width:400px){
@@ -87,5 +150,71 @@
     text-align: center;
     justify-content: center;
     margin-top: 24px;
+}
+.name{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.html{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px
+}
+.css{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px
+}
+.java{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px
+}
+.react{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px
+}
+.avg{
+    width: 90px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.pavg{
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.gd{
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.pgd{
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.tot{
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.ptot{
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
 }
 }
